@@ -103,4 +103,4 @@ SQL (window functions, subqueries, data validation/debugging) · Power BI (DAX, 
 
 ## Author
 
-Coco — BSc Mathematics and Statistics. Built as part of preparation for Bombardier's Finance/Business Analyst Rotation Program.
+Coco — BSc Mathematics and Statistics. originally built while preparing for Bombardier's Finance/Business Analyst Rotation Program, demonstrating SQL, Power BI, and financial analysis skills applicable to corporate finance and business analyst roles broadly.
